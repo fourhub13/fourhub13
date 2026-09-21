@@ -16,14 +16,14 @@
 
   <!-- Community & Social Badges -->
   <p align="center">
-    <a href="https://discord.gg/YOUR_SERVER">
+    <a href="[https://fourhub.gg](https://fourhub13.vercel.app/)">
+      <img src="https://img.shields.io/badge/Official_Website-Visit-0096c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    </a>
+    <a href="https://discord.com/invite/cUwR4tUJv3">
       <img src="https://img.shields.io/badge/Discord-Community-0077b6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
-    <a href="https://youtube.com/@YOUR_CHANNEL">
+    <a href="https://youtube.com/@jokerbiel13">
       <img src="https://img.shields.io/badge/YouTube-FourHub-023e8a?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
-    <a href="https://t.me/YOUR_CHANNEL">
-      <img src="https://img.shields.io/badge/Telegram-Channel-0096c7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </p>
 
