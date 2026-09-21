@@ -16,7 +16,7 @@
 
   <!-- Community & Social Badges -->
   <p align="center">
-    <a href="fourhub13.vercel.app">
+    <a href="[fourhub13.vercel.app](https://fourhub13.vercel.app/)">
       <img src="https://img.shields.io/badge/Official_Website-Visit-0096c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
     </a>
     <a href="https://discord.com/invite/cUwR4tUJv3">
