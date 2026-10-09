@@ -56,8 +56,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=08121e&title_color=00b4d8&text_color=e0f2fe&icon_color=0096c7&border_color=0284c7&hide_border=false" alt="FourHub GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=08121e&title_color=00b4d8&text_color=e0f2fe&border_color=0284c7&hide_border=false" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fourhub13&show_icons=true&bg_color=08121e&title_color=00b4d8&text_color=e0f2fe&icon_color=0096c7&border_color=0284c7&hide_border=false" alt="FourHub GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fourhub13&layout=compact&bg_color=08121e&title_color=00b4d8&text_color=e0f2fe&border_color=0284c7&hide_border=false" alt="Top Languages" />
 </div>
 
 <br/>
